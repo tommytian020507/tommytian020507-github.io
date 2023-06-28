@@ -1,7 +1,8 @@
+---
 home: true
 title: Tommy's Photography Blog / 淘米田啥都拍
 icon: home
-heroImage: /emirates_a380_color
+heroImage: /emirates_a380_color.jpg
 bgImage: /home/6-light.svg
 bgImageDark: /home/6-dark.svg
 heroFullScreen: true
@@ -146,3 +147,4 @@ highlights:
             link: https://ipw.cn/ipv6webcheck/?site=bornforthis.cn
 copyright: false
 footer: Copyright © 2018-2023 长期招收编程一对一学员！微信：Jiabcdefh
+---
