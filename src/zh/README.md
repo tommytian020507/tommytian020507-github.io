@@ -2,7 +2,6 @@
 home: true
 title: Tommy's Photography Blog / 淘米田啥都拍
 icon: home
-heroImage: /aiyuechuang_draw_a_Boeing_747_977346e6-076f-4125-8879-5dbc3c5beaa2.png
 bgImage: /emirates_a380_color.jpg
 bgImageDark: /ke82_748.jpg
 heroFullScreen: true
