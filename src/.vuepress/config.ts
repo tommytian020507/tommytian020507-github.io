@@ -10,6 +10,7 @@ export default defineUserConfig({
       title: "Blog Demo",
       description: "Tommy Tian's Photography Blog",
     },
+    
     "/zh/": {
       lang: "zh-CN",
       title: "博客演示",
