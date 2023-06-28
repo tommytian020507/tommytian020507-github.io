@@ -13,8 +13,8 @@ export default defineUserConfig({
     
     "/zh/": {
       lang: "zh-CN",
-      title: "博客演示",
-      description: "淘米田的摄影博客",
+      title: " ",
+      description: " ",
     },
   },
 
