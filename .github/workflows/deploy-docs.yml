@@ -1,44 +1,36 @@
+# .github/workflows/deploy.yml
+name: Build and Deploy to gh-pages
 
-name: Deploy Docs
+permissions:
+  contents: write
 
 on:
+  # 每当 push 到 main 分支时触发部署
   push:
-    branches:
-      # make sure this is the branch you are using
-      - main
+    branches: [main]
 
 jobs:
-  deploy-gh-pages:
+  build-and-deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: checkout
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-          # if your docs needs submodules, uncomment the following line
-          # submodules: true
 
-
-
-      - name: Setup Node.js
+      - name: node switch
         uses: actions/setup-node@v3
         with:
-          node-version: 18
-          cache: npm
+          node-version: '18.x'
+          registry-url: 'https://registry.npmjs.org'
 
-      - name: Install Deps
-        run: npm ci
-
-      - name: Build Docs
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-        run: |-
+      - name: Install and Build
+        run: |
+          npm install
           npm run docs:build
-          > src/.vuepress/dist/.nojekyll
 
-      - name: Deploy Docs
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # This is the branch where the docs are deployed to
-          branch: gh-pages
-          folder: src/.vuepress/dist
+          folder: dist
+          clean-exclude: |
+            CNAME
