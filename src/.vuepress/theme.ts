@@ -13,7 +13,8 @@ export default hopeTheme({
     url: "https://tommytian020507.github.io/",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // iconAssets: "fontawesome-with-brands",
+  iconAssets: "https://bornforthis.cn/icon/iconfont.css",
 
   logo: "/logo.svg",
 
