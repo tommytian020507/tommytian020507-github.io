@@ -2,8 +2,8 @@
 home: true
 title: Tommy's Photography Blog / 淘米田啥都拍
 icon: home
-bgImage: /emirates_a380_color.jpg
-bgImageDark: /ke82_748.jpg
+bgImage: /梯田.jpg
+bgImageDark: /ke82-cloudy.jpg
 heroFullScreen: true
 bgImageStyle:
     background-attachment: fixed
