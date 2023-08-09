@@ -16,7 +16,7 @@ export default hopeTheme({
   // iconAssets: "fontawesome-with-brands",
   iconAssets: "https://bornforthis.cn/icon/iconfont.css",
 
-  logo: "/logo.svg",
+  logo: "/向云端.jpg",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
