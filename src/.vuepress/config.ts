@@ -7,14 +7,14 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Blog Demo",
+      title: "Discovering Beauty",
       description: "Tommy Tian's Photography Blog",
     },
     
     "/zh/": {
       lang: "zh-CN",
-      title: " ",
-      description: " ",
+      title: "淘米田啥都拍",
+      description: "淘米的照片墙",
     },
   },
 
