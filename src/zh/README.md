@@ -13,7 +13,7 @@ highlights:
     - header: 零基础轻松接轨时代～
       image: /home/reshot-icon-half-face-ai-cyborg-RTPSXEM9KD.svg
       bgImage: /home/emirates.jpg
-      bgImageDark: /home/3-dark.svg
+      bgImageDark: /home/etihad.jpg
       highlights:
           - title: 运行自己的第一行 <code>Hello Aiyuechuang Code1v1.</code> 代码。
           - title: AI 时代的未来 <code>Hello Features.</code> 作为你的智能副驾。

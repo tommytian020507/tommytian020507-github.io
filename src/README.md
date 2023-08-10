@@ -14,9 +14,7 @@ highlights:
       image: /home/reshot-icon-half-face-ai-cyborg-RTPSXEM9KD.svg
       bgImage: /home/ke388.jpg
       bgImageDark: /home/3-dark.svg
-      highlights:
-          - title:    
-          - title: 
+      
 
     - header: 学你想要学的内容
       description: 我的全方位技能与经验，可以为你保驾护航。
