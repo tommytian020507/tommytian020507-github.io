@@ -11,9 +11,9 @@ bgImageStyle:
 
 highlights:
     - header:    
-      image: /home/reshot-icon-half-face-ai-cyborg-RTPSXEM9KD.svg
+      image: /home/airplane.png
       bgImage: /home/ke388.jpg
-      bgImageDark: /home/3-dark.svg
+      bgImageDark: /home/emiratesside.jpg
       
 
     - header: 学你想要学的内容
