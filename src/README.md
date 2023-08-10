@@ -10,13 +10,13 @@ bgImageStyle:
 
 
 highlights:
-    - header: 零基础轻松接轨时代～
+    - header:    
       image: /home/reshot-icon-half-face-ai-cyborg-RTPSXEM9KD.svg
-      bgImage: /home/3-light.svg
+      bgImage: /home/ke388.jpg
       bgImageDark: /home/3-dark.svg
       highlights:
-          - title: 运行自己的第一行 <code>Hello Aiyuechuang Code1v1.</code> 代码。
-          - title: AI 时代的未来 <code>Hello Features.</code> 作为你的智能副驾。
+          - title:    
+          - title: 
 
     - header: 学你想要学的内容
       description: 我的全方位技能与经验，可以为你保驾护航。
