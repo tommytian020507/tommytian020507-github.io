@@ -3,7 +3,7 @@ home: true
 title: Tommy's Photography Blog / 淘米田啥都拍
 icon: home
 bgImage: /朴语野奢.jpg
-bgImageDark: /luft7482.0.jpeg
+bgImageDark: /yyys.jpg
 heroFullScreen: true
 bgImageStyle:
     background-attachment: fixed
