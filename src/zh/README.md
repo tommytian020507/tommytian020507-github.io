@@ -11,7 +11,7 @@ bgImageStyle:
 
 highlights:
     - header: 零基础轻松接轨时代～
-      image: /home/reshot-icon-half-face-ai-cyborg-RTPSXEM9KD.svg
+      image: /home/airplane.png
       bgImage: /home/emirates.jpg
       bgImageDark: /home/etihad.jpg
       highlights:
