@@ -21,11 +21,9 @@ highlights:
     - header: 学你想要学的内容
       description: 我的全方位技能与经验，可以为你保驾护航。
       image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
-      bgImage: /home/2-light.svg
-      bgImageDark: /home/2-dark.svg
-      bgImageStyle:
-          background-repeat: repeat
-          background-size: initial
+      bgImage: /home/wanxiazhishengji.jpg
+      bgImageDark: /home/yanhua.jpg
+      
       features:
           - title: Python 全栈
             icon: python

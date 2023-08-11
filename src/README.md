@@ -20,10 +20,8 @@ highlights:
       description: 我的全方位技能与经验，可以为你保驾护航。
       image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
       bgImage: /home/xyd.jpg
-      bgImageDark: /home/2-dark.svg
-      bgImageStyle:
-          background-repeat: repeat
-          background-size: initial
+      bgImageDark: /home/indenight.jpg
+          
       features:
           - title: Python 全栈
             icon: python
