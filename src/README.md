@@ -13,7 +13,7 @@ highlights:
     - header:    
       image: /home/airplane.png
       bgImage: /home/ke388.jpg
-      bgImageDark: /home/emiratesside.jpg
+      bgImageDark: /home/tommy.jpg
       
 
     - header: 学你想要学的内容
