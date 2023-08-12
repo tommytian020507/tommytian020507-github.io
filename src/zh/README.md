@@ -1,6 +1,6 @@
 ---
 home: true
-title: Tommy's Photography Blog / 淘米田啥都拍
+title: 淘米田啥都拍
 icon: home
 bgImage: /梯田.jpg
 bgImageDark: /qingyan.jpg
@@ -10,16 +10,16 @@ bgImageStyle:
 
 
 highlights:
-    - header: 零基础轻松接轨时代～
+    - header: 冲上云霄
       image: /home/airplane.png
       bgImage: /home/emirates.jpg
       bgImageDark: /home/etihad.jpg
       highlights:
-          - title: 运行自己的第一行 <code>Hello Aiyuechuang Code1v1.</code> 代码。
-          - title: AI 时代的未来 <code>Hello Features.</code> 作为你的智能副驾。
+          - title: 敬那片我们热爱的蓝天
+          - title: 那些年陪伴我们的大鸟
 
-    - header: 学你想要学的内容
-      description: 我的全方位技能与经验，可以为你保驾护航。
+    - header: 纽约---让人又爱又恨的“大苹果”
+      description: 无数著名的扫街地点，等你来打卡！
       image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
       bgImage: /home/wanxiazhishengji.jpg
       bgImageDark: /home/yanhua.jpg

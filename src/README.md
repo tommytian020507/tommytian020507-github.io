@@ -1,6 +1,6 @@
 ---
 home: true
-title: Tommy's Photography Blog / 淘米田啥都拍
+title: Tommy's Photography Blog
 icon: home
 bgImage: /朴语野奢.jpg
 bgImageDark: /yyys.jpg
