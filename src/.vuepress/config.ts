@@ -21,9 +21,9 @@ export default defineUserConfig({
   },
 
   theme,
-  plugins: {
+  plugins: [
     backToTopPlugin(),
-  }
+  ]
 
   // Enable it with pwa
   // shouldPrefetch: false,
