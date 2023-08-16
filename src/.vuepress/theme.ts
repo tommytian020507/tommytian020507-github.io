@@ -7,7 +7,7 @@ const MR_HOPE_AVATAR =
 
 export default hopeTheme({
   hostname: "https://tommytian020507.github.io/",
-
+  backToTop: false,
   author: {
     name: "Mr.Tommy",
     url: "https://tommytian020507.github.io/",

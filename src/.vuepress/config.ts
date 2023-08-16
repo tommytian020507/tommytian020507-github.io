@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
+
 
 export default defineUserConfig({
   base: "/",
@@ -19,6 +21,9 @@ export default defineUserConfig({
   },
 
   theme,
+  plugins: {
+    backToTopPlugin(),
+  }
 
   // Enable it with pwa
   // shouldPrefetch: false,
