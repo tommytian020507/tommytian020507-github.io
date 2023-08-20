@@ -20,7 +20,7 @@ highlights:
 
     - header: 纽约---让人又爱又恨的“大苹果”
       description: 无数著名的扫街地点，等你来打卡！
-      image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
+      # image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
       bgImage: /home/wanxiazhishengji.jpg
       bgImageDark: /home/yanhua.jpg
       
