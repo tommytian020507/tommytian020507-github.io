@@ -10,13 +10,13 @@ bgImageStyle:
 
 
 highlights:
-    - header: 冲上云霄
+    - header: <p style="font-weight:bolder; color:white;">冲上云霄<p>
       image: /home/airplane.png
       bgImage: /home/emirates.jpg
       bgImageDark: /home/etihad.jpg
       highlights:
-          - title: 敬那片我们热爱的蓝天
-          - title: 那些年陪伴我们的大鸟
+          - title: <p style="font-weight:bolder; color:white;">敬那片我们热爱的蓝天<p>
+          - title: <p style="font-weight:bolder; color:white;">那些年陪伴我们的大鸟<p>
 
     - header: 纽约---让人又爱又恨的“大苹果”
       description: 无数著名的扫街地点，等你来打卡！

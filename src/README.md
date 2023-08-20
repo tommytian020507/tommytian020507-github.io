@@ -10,11 +10,13 @@ bgImageStyle:
 
 
 highlights:
-    - header:    
+    - header: <p style="font-weight:bolder; color:white;">Into the Clouds!<p>
       image: /home/airplane.png
       bgImage: /home/ke388.jpg
       bgImageDark: /home/tommy.jpg
-      
+      highlights:
+          - title: <p style="font-weight:bolder; color:white;">Cheer to the Sky We Love<p>
+          - title: <p style="font-weight:bolder; color:white;">The Giant Birds Flied with Us<p>
 
     - header: 学你想要学的内容
       description: 我的全方位技能与经验，可以为你保驾护航。
