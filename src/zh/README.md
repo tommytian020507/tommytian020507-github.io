@@ -44,7 +44,7 @@ highlights:
             icon: yongyan
             details: 最好的机会，等你来探索！
             link: #
-    - header: 大连，我心与你同澎湃
+    - header: 大连，我心与你同澎湃 --- 第一部
       description: 欢迎光临我美丽的家乡
       # image: /home/layout.svg
       bgImage: /home/5-light.svg
@@ -65,75 +65,61 @@ highlights:
             details: 北方明珠中心的那一抹绿
             link: #
 
-          - title: 星海湾大桥
+          - title: 富国公园
             icon: laboratorylab
-            details: 大连版的“金门大桥”
+            details: 站得更高，所以望得更远
             link: #
-    - header: 课程
-      image: /home/features.svg
+    - header: 大连，我心与你同澎湃 --- 第二部
+      # image: /home/features.svg
       bgImage: /home/1-light.svg
       bgImageDark: /home/1-dark.svg
       features:
-          - title: Python 体系课
+          - title: 有轨电车
             icon: python
-            details: Python 核心技术与实践，带你登顶！
+            details: 活着的历史，穿行大街小巷百年
             link: /column/py/basequestion/
 
-          - title: Java
+          - title: 生猛海鲜
             icon: java
-            details: 轻松解决 Java 重难点
+            details: “兄弟们，歹就完了！血受！”
             link: /column/Java/
 
-          - title: Unity
+          - title: 大连港
             icon: unity
-            details: 私教学员专属密码，以防作业抄袭！
+            details: 因海而兴，因海而旺
             link: #
 
-          - title: C/C++
+          - title: 星海湾大桥🌁
             icon: cpp
-            details: 支持 docsearch 和基于客户端的搜索
+            details: 大连版的“金门大桥”
             link: #
 
-          - title: ChatGPT
+          - title: 中山区CBD
             icon: chat
-            details: 你的智能副驾
+            details: 北方明珠的荣光
             link: #
 
-    - header: Message
-      description: 五年私教经验，伴你成长！
-      image: /home/advanced.svg
+    - header: 保持联系！
+      description: 大家有任何想跟我分享的内容或者建议，欢迎与我沟通！
+      # image: /home/advanced.svg
       bgImage: /home/4-light.svg
       bgImageDark: /home/4-dark.svg
       highlights:
-          - title: QQ 在线客服
-            icon: qq
-            details: 如果你有其他需求或者疑问
+          - title: Instagram:@tommytian57
+            icon: 
+            details: 添加我的Instagram好友
             link: http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes
 
-          - title: 微信:Jiabcdefh
-            icon: weixin1
-            details: 长期招收编程一对一学员！
+          - title: 微信:tommyfernandez020507
+            image: /home/erweima.jpg
+            details: 添加我的微信好友
             link: #
 
           - title: 邮箱📮
             icon: gmail
-            details: bornforthis@bornforthis.cn
+            details: daisdroner@gmail.com
             link: mailto:bornforthis@bornforthis.cn
 
-          - title: ICP 备案
-            icon: beian
-            details: 闽ICP备19021486号-6
-            link: https://beian.miit.gov.cn/
-
-          - title: 公安备案
-            icon: gongan
-            details: <img src="/beian.png"/>闽公网安备 35030502000172号
-            link: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35030502000172
-
-          - title: IPV6
-            icon: IP
-            details: <img alt="本站支持IPv6访问" src="/home/ipv6-s1.svg">
-            link: https://ipw.cn/ipv6webcheck/?site=bornforthis.cn
 copyright: false
 footer: Copyright © 2018-2023 长期招收编程一对一学员！微信：Jiabcdefh
 ---
