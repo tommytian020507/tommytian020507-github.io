@@ -25,49 +25,49 @@ highlights:
       bgImageDark: /home/yanhua.jpg
       
       features:
-          - title: Python 全栈
+          - title: 曼哈顿的摩登森林
             icon: python
-            details: Python 各个分支皆可带！
+            details: 比高大更高大，比宏伟更宏伟！
             link: #
 
-          - title: Java 体系
+          - title: 美食大熔炉
             icon: java
-            details: 轻松拿捏，入门/作业无惧！
+            details: 全球各地的美食，等你来品尝！
             link: #
 
-          - title: Unity 游戏开发
+          - title: 城市中的一抹绿
             icon: unity
-            details: 想学游戏？没问题，轻松入门！
+            details: 宇宙中心也有难得的新鲜空气！
             link: #
 
-          - title: 毕业🎓设计
+          - title: 在宇宙中心上学
             icon: yongyan
-            details: 全程带你做毕设，毕业工作两不误！
+            details: 最好的机会，等你来探索！
             link: #
-    - header: 福利
-      description: 来自 AI悦创私教学员的福利🧧
+    - header: 大连，我心与你同澎湃
+      description: 欢迎光临我美丽的家乡
       # image: /home/layout.svg
       bgImage: /home/5-light.svg
       bgImageDark: /home/xhgc.jpg
       highlights:
-          - title: 科学上网
+          - title: 星海广场
             icon: tizi
-            details: 永久有效的科学上网，世界那么大，该出去看看了。
+            details: 被海环抱的亚洲最大广场
             link: https://mf.bornforthis.cn/content
 
-          - title: 终身答疑
+          - title: 莲花山
             icon: answer_font
-            details: 课时学习50h以上的，终身技术答疑！
+            details: 259.6米，俯瞰山海
             link: #
 
-          - title: 面试指导
+          - title: 绿山
             icon: employee-rank
-            details: 你步入社会定心丸！
+            details: 北方明珠中心的那一抹绿
             link: #
 
-          - title: 简历辅导
+          - title: 星海湾大桥
             icon: laboratorylab
-            details: 掌握简历制作的核心法则～
+            details: 大连版的“金门大桥”
             link: #
     - header: 课程
       image: /home/features.svg
