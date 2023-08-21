@@ -46,7 +46,7 @@ highlights:
             link: #
     - header: 福利
       description: 来自 
-      image: /home/layout.svg
+      # image: /home/layout.svg
       bgImage: /home/5-light.svg
       bgImageDark: /home/5-dark.svg
       highlights:
