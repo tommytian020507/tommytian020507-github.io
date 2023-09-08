@@ -57,3 +57,40 @@
     color: white;
     font-weight: bolder;
 }
+
+.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info h2.vp-highlight-header p {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 40px;
+    max-width: 3000px;
+    margin: 50px auto;
+}
+
+.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info .vp-highlight-title {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    max-width: 3000px;
+    margin: 5px auto;
+}
+
+.vp-feature-wrapper .vp-feature h2.vp-feature-header {
+
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 40px;
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.vp-feature-wrapper .vp-feature .vp-feature-description {
+    background-color: rgba(0, 0, 0, 0.4);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 40px;
+    max-width: 300px;
+    margin: 60px auto;
+}
