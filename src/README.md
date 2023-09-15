@@ -20,7 +20,7 @@ highlights:
 
     - header: 学你想要学的内容
       description: 我的全方位技能与经验，可以为你保驾护航。
-      image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
+      # image: /home/reshot-icon-edit-code-UWQSF3AX5E.svg
       bgImage: /home/xyd.jpg
       bgImageDark: /home/indenight.jpg
           
@@ -70,7 +70,7 @@ highlights:
             details: 掌握简历制作的核心法则～
             link: #
     - header: 课程
-      image: /home/features.svg
+      # image: /home/features.svg
       bgImage: /home/1-light.svg
       bgImageDark: /home/1-dark.svg
       features:
@@ -101,7 +101,7 @@ highlights:
 
     - header: Message
       description: 五年
-      image: /home/advanced.svg
+      # image: /home/advanced.svg
       bgImage: /home/4-light.svg
       bgImageDark: /home/4-dark.svg
       highlights:

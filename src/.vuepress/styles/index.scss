@@ -58,17 +58,17 @@
     font-weight: bolder;
 }
 
-.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info h2.vp-highlight-header p {
-    background-color: rgba(0, 0, 0, 0.8);
-    padding-left: 15px;
-    padding-right: 15px;
-    border-radius: 40px;
-    max-width: 3000px;
-    margin: 50px auto;
-}
+// .vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info h2.vp-highlight-header p {
+//     background-color: rgba(0, 0, 0, 0.8);
+//     padding-left: 15px;
+//     padding-right: 15px;
+//     border-radius: 40px;
+//     max-width: 3000px;
+//     margin: 50px auto;
+// }
 
 .vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info .vp-highlight-title {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 20px;
@@ -87,10 +87,47 @@
 }
 
 .vp-feature-wrapper .vp-feature .vp-feature-description {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.6);
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 40px;
     max-width: 300px;
     margin: 60px auto;
 }
+
+.vp-feature-wrapper .vp-feature .vp-feature-item {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 8px;
+    padding-right: 10px;
+    border-radius: 40px;
+    max-width: 200px;
+    margin: 50px auto;
+}
+
+.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info p.vp-highlight-description {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 8px;
+    padding-right: 10px;
+    border-radius: 40px;
+    max-width: 200px;
+    margin: 50px auto;
+}
+
+.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info h2.vp-highlight-header {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 8px;
+    padding-right: 10px;
+    border-radius: 40px;
+    max-width: 200px;
+    margin: 50px auto;
+}
+
+.vp-highlight-wrapper .vp-highlight .vp-highlight-info-wrapper .vp-highlight-info .vp-highlights p.vp-highlight-details {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-left: 8px;
+    padding-right: 10px;
+    border-radius: 40px;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
